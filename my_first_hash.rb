@@ -1,9 +1,9 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   my_hash = {
-    "my_name" => "sean",
-    "my_height" => "9 feet 10 inches",
-    "my_weight" => "300 Kilograms",
+    "my_name" => "Kwane",
+    "my_height" => "5 feet 7 inches",
+    "my_weight" => "160 lbs",
   }
 
 end
